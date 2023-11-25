@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class MainActivity2 extends AppCompatActivity {
     TextView result;
     Button back;
+    //puch puch
 
     @Override
     //fchkeel
